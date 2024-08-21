@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834861267579",
+    "project_id": "crudtuts-a9d59",
+    "storage_bucket": "crudtuts-a9d59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834861267579:android:d95cb4afc79dc4433100de",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJrth6Ng4ZQNAyWaa7emG3m2ps5OKITQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
