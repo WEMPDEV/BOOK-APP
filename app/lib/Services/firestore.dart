@@ -41,4 +41,8 @@ class Firestore {
       print("Error deleting book: $e");
     }
   }
+
+  getNotes() {}
+
+
 }
